@@ -1,5 +1,5 @@
-# my yearly settings
-"Give up!"
+#####"Give up!"
+
 -- icedcave, 2021
 
 <img width="250" height="309" alt="image" src="https://github.com/user-attachments/assets/067b0089-7c2f-4182-b515-284c600c03db" />
